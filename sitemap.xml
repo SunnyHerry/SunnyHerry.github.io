@@ -38,7 +38,25 @@
   </url>
   
   <url>
-    <loc>http://sunnyherry.github.io/link/index.html</loc>
+    <loc>http://sunnyherry.github.io/categories/index.html</loc>
+    
+    <lastmod>2023-05-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://sunnyherry.github.io/dream/index.html</loc>
+    
+    <lastmod>2023-05-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://sunnyherry.github.io/heart/index.html</loc>
     
     <lastmod>2023-05-12</lastmod>
     
@@ -72,5 +90,12 @@
   </url>
   
 
+  
+  <url>
+    <loc>http://sunnyherry.github.io/categories/%E7%94%9F%E6%B4%BB/</loc>
+    <lastmod>2023-05-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 </urlset>
